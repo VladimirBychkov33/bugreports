@@ -27,9 +27,9 @@
 * ## CakeLand
     ### [Техническое задание](https://docs.google.com/document/d/1qsVoFPVeSFQ0NKv9pyIIK7orIMw9-OvH90GzmndZh40/edit?usp=sharing)
 
-    ### [Чек-лист](https://docs.google.com/spreadsheets/d/11TGYclz0u7FJnfoVo5u-9fJns-kaP-brVukK_dIkVAk/edit?usp=sharing)
+    ### [Баг-репорты](https://docs.google.com/spreadsheets/d/11TGYclz0u7FJnfoVo5u-9fJns-kaP-brVukK_dIkVAk/edit#gid=129259580)
 
-    ![Header](https://github.com/VladimirBychkov33/checklists/blob/main/CakeLand_CheckList.png)
+    ![Header](https://github.com/VladimirBychkov33/bugreports/blob/main/%D0%B1%D0%B0%D0%B3%D0%B8%20CakeLand.png)
 
 ---
 ---
