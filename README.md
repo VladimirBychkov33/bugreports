@@ -19,7 +19,7 @@
 
     ### [Баг-репорты](https://docs.google.com/spreadsheets/d/1sHwUEjoyO5hq08YYoIHc9j2xKcri3nP5gXoN66a5rbE/edit#gid=129259580)
 
-    ![Header](https://github.com/VladimirBychkov33/checklists/blob/main/geektest_checklist.png)
+    ![Header](https://github.com/VladimirBychkov33/bugreports/blob/main/%D0%B1%D0%B0%D0%B3%D0%B8%20GeekTest.png)
     
  ---
  ---
