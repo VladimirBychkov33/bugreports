@@ -5,8 +5,10 @@
 
     ### [Отчёт о тестировании](https://drive.google.com/file/d/1EPLovUtmWLR0sVN39sch2BVtaDoD3QVu/view?usp=sharing)
 
-    ![Header](https://github.com/VladimirBychkov33/checklists/blob/main/qase%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%8B.png)
-    ![Header](https://github.com/VladimirBychkov33/checklists/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82%20%D1%87%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%D1%8B.png)
+    ### Примеры баг-репортов из Jira
+
+    ![Header](https://github.com/VladimirBychkov33/bugreports/blob/main/%D0%B1%D0%B0%D0%B3%202%20%D0%B8%D0%B7%20Jira.png)
+    ![Header](https://github.com/VladimirBychkov33/bugreports/blob/main/%D0%B1%D0%B0%D0%B3%20%D0%B8%D0%B7%20Jira.png)
 
 ---
 ---
