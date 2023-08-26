@@ -19,7 +19,7 @@
 
     ### [Баг-репорты](https://docs.google.com/spreadsheets/d/1sHwUEjoyO5hq08YYoIHc9j2xKcri3nP5gXoN66a5rbE/edit#gid=129259580)
 
-    ### [Постман коллекция](https://drive.google.com/file/d/1sqrlW2itLjKG9rYBFPY77stSienaq_DC/view?usp=drive_link)
+    ### [Постман коллекция](https://drive.google.com/file/d/1FZ8t-P6d6s9WwCFCFAPI64tQ-_8EPGmr/view?usp=drive_link)
 
     ![Header](https://github.com/VladimirBychkov33/bugreports/blob/main/%D0%B1%D0%B0%D0%B3%D0%B8%20GeekTest.png)
     
